@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:10.1.0-jdk17-openjdk 
+From 8.5.73-jre8-temurin 
 
 # Maintainer 
 MAINTAINER "valaxytech@gmail.com" 
